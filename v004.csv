@@ -1,0 +1,8 @@
+# Exported using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via)
+# CSV_HEADER = metadata_id,file_list,temporal_segment_start,temporal_segment_end,metadata
+"1_XdssplZP","[""video4.mp4""]",3.785,18.832,"{""subtitle"":""Walking while holding/pointing a gun""}"
+"1_bl8XCat0","[""video4.mp4""]",224.847,248.316,"{""subtitle"":""Opening a closet/cabinet""}"
+"1_ntmBsBDF","[""video4.mp4""]",250.285,286.972,"{""subtitle"":""Rummaging through drawers/cabinets""}"
+"1_eopyLiXH","[""video4.mp4""]",289.082,299.968,"{""subtitle"":""Rummaging through drawers/cabinets""}"
+"1_cb1T2YFR","[""video4.mp4""]",22.316,89.347,"{""subtitle"":""Forcing a hostage to lie on the ground""}"
+"1_gWii2iL4","[""video4.mp4""]",176.753,185.691,"{""subtitle"":""Stealing a TV""}"
