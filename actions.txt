@@ -12,3 +12,6 @@ c011 Inspecting other people's belongings
 c012 Rummaging through drawers/cabinets
 c013 Forcing a hostage to lie on the ground
 c014 Getting into a car
+c015 Walking up the stairs
+c016 Carrying a chair
+c017 Searching and taking valuables

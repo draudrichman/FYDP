@@ -2,8 +2,8 @@ import csv
 import json
 
 # Define input file paths
-video_id = "V005"
-csv_file = "v005.csv"  # Replace with actual path
+video_id = "V006"
+csv_file = "v006.csv"  # Replace with actual path
 text_file = "actions.txt"  # Replace with actual path
 
 # Load predefined action labels
