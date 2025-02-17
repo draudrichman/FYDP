@@ -1,0 +1,7 @@
+# Exported using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via)
+# CSV_HEADER = metadata_id,file_list,temporal_segment_start,temporal_segment_end,metadata
+"2_Dlx070xa","[""video11.mp4""]",0.128,19.91,"{""subtitle"":""Walking up to a house""}"
+"2_yqICubng","[""video11.mp4""]",20.144,21.832,"{""subtitle"":""Ringing a doorbell""}"
+"2_hxImy5TX","[""video11.mp4""]",50.097,52.582,"{""subtitle"":""Ringing a doorbell""}"
+"2_47uX6UDl","[""video11.mp4""]",122.332,123.457,"{""subtitle"":""Walking while holding/pointing a gun""}"
+"2_XN8cq3X4","[""video11.mp4""]",130.128,254.238,"{""subtitle"":""Trying to break into a house""}"

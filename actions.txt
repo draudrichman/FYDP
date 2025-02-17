@@ -17,9 +17,16 @@ c016 Carrying a chair
 c017 Searching and taking valuables
 c018 Backing up a car
 c019 Getting out of a car
-c020 Breaking open a door
+c020 Breaking open a door/gate
 c021 Moving through a hallway
 c022 Breaking open a door with an object
 c023 Opening a vehicle trunk
 c024 Loading an object on a vehicle
 c025 Driving away
+c026 Breaking into a vehicle
+c027 Trying to break open a door/gate
+c028 Walking up to a house
+c029 Ringing a doorbell
+c030 Trying to break into a house
+c031 Prying open a window
+c032 Climbing through a window

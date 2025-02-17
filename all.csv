@@ -7,4 +7,8 @@ V005,"A couple of men open an already broken door and enter the building. After 
 V006,"A group of people wearing masks are seen walking up and down the stairs, searching through the area. They take whatever they find.",c015 0.14 5.96;c016 7.75 12.63;c017 13.75 28.54;c015 40.55 44.47,55
 V007,"A group of people attempt to break open a gate with crowbars.",c022 6.91 129.91,129.91
 V008,"A group of men load a bike onto a pickup truck, secure it, and drive away.",c023 0.57 16.61;c024 17.02 60.16;c025 62.77 70.82,70.82
+V009,"A group of men break into a parked vehicle, enter it, and drive away.",c026 11.80 116.96;c025 129.39 148.75,153
+V010,"A man attempts to break into a house but fails. After several tries, he gives up, returns to his car, and drives away.",c025 384.57 391.57;c027 160.96 370.96,394
+V011,"A man walks up to a house and rings the doorbell, waiting for a response. He has a gun. After some time, when no one answers, he attempts to break into the house using a broomstick.",c028 0.13 19.91;c029 20.14 21.83;c029 50.10 52.58;c004 122.33 123.46;c030 130.13 254.24,254.24
+V012,"A couple of men approach a house and attempt to gain entry through a window. They use crowbars/rods to pry open the window. After successfully opening it, one of them climb inside the house.",c031 0.00 150.00;c032 150.78 158.14,164
 V021,"A car backs into a driveway, and masked men step out. They break open the door and get inside, moving through the hallway and different rooms.",c018 0.00 3.69;c019 3.77 13.43;c020 25.44 34.44;c021 34.77 49.33,49.33
