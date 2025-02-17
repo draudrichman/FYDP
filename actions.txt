@@ -1,0 +1,4 @@
+c001 Opening a door
+c002 Sitting on a chair
+c003 Pulling out a gun
+c004 Walking while holding/pointing a gun
