@@ -1,0 +1,5 @@
+# Exported using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via)
+# CSV_HEADER = metadata_id,file_list,temporal_segment_start,temporal_segment_end,metadata
+"1_99Ta1DHY","[""video23.mp4""]",1.066,4.582,"{""subtitle"":""Walking up to a house""}"
+"1_HEtw2zaZ","[""video23.mp4""]",4.753,27.8,"{""subtitle"":""Stealing a parcel""}"
+"1_yTwOhaQv","[""video23.mp4""]",27.988,33.988,"{""subtitle"":""Driving away""}"

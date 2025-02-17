@@ -11,4 +11,15 @@ V009,"A group of men break into a parked vehicle, enter it, and drive away.",c02
 V010,"A man attempts to break into a house but fails. After several tries, he gives up, returns to his car, and drives away.",c025 384.57 391.57;c027 160.96 370.96,394
 V011,"A man walks up to a house and rings the doorbell, waiting for a response. He has a gun. After some time, when no one answers, he attempts to break into the house using a broomstick.",c028 0.13 19.91;c029 20.14 21.83;c029 50.10 52.58;c004 122.33 123.46;c030 130.13 254.24,254.24
 V012,"A couple of men approach a house and attempt to gain entry through a window. They use crowbars/rods to pry open the window. After successfully opening it, one of them climb inside the house.",c031 0.00 150.00;c032 150.78 158.14,164
+V013,"Three armed individuals break into a house, moving quickly as they search the area. The homeowner, reacting to the intrusion, fires a gun at them. In response, the intruders flee the scene.",c004 0.00 17.04;c033 17.89 29.82;c034 18.62 25.62,25.62
+V014,"A masked man enters a room, steals a laptop and leaves.",c001 0.00 4.79;c007 7.39 21.47,21.47
+V015,"A man enters the house through the front door and proceeds to search around the premises.",c001 0.00 5.04;c005 9.29 14.64,14.64
+V016,"A delivery man arrives, places a parcel at the door, marks it as delivered, and then picks it up and leaves with it.",c035 0.27 8.08;c036 8.22 18.18,18.18
+V017,"A man approaches the house, steals a parcel from the porch, and begins to leave. As he is leaving, the homeowner confronts him with a gun. The thief then returns the parcel and leaves the premises.",c028 4.57 19.74;c036 19.93 26.38;c004 26.55 47.99;c037 38.33 42.33,48
+V018,"A woman approaches a house, takes parcels from the doorstep, and places them into her car.",c024 17.27 20.88;c036 0.00 14.94;c036 25.82 29.38,29.38
+V020,"A man approaches a house, waits briefly, steals a parcel from the doorstep, gets into his car, and drives away.",c028 0.00 12.71;c036 12.88 22.57;c014 22.69 26.32;c025 26.44 32.00,32.00
 V021,"A car backs into a driveway, and masked men step out. They break open the door and get inside, moving through the hallway and different rooms.",c018 0.00 3.69;c019 3.77 13.43;c020 25.44 34.44;c021 34.77 49.33,49.33
+V022,"Two men enter a room, search through drawers and cabinets, and appear to be looking for valuables.",c001 0.00 1.69;c017 1.99 61.17,62
+V023,"A person approaches a house, steals a parcel from the doorstep, gets into his car, and drives away.",c028 1.07 4.58;c036 4.75 27.80;c025 27.99 33.99,35
+V024,"A person approaches a house, steals a parcel from the doorstep and walks away.",c028 1.57 13.47;c036 14.30 28.94,40
+V025,"A woman approaches a house, steals a parcel from the doorstep and walks away.",c036 0.16 16.83,29

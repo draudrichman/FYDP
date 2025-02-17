@@ -30,3 +30,8 @@ c029 Ringing a doorbell
 c030 Trying to break into a house
 c031 Prying open a window
 c032 Climbing through a window
+c033 Firing a gun
+c034 Fleeing from a house
+c035 Delivering a parcel
+c036 Stealing a parcel
+c037 Putting down a parcel
