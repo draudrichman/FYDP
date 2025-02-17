@@ -2,7 +2,8 @@ import csv
 import json
 
 # Define input file paths
-csv_file = "v003.csv"  # Replace with actual path
+video_id = "V002"
+csv_file = "v002.csv"  # Replace with actual path
 text_file = "actions.txt"  # Replace with actual path
 
 # Load predefined action labels
@@ -56,7 +57,6 @@ if new_actions:
         f.write("\n".join(new_actions) + "\n")
 
 # Generate the final output string
-video_id = "V003"
 manual_placeholder = ""  # This will be manually added later
 formatted_string = f'{video_id},"{manual_placeholder}",' + ";".join(annotations) + f",{end_time:.2f}"
 

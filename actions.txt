@@ -5,3 +5,7 @@ c004 Walking while holding/pointing a gun
 c005 Walking around looking at surroundings
 c006 Stealing a TV
 c007 Stealing a laptop
+c008 Opening a closet/cabinet
+c009 Opening a drawer
+c010 Negotiating with people
+c011 Inspecting other people’s belongings
