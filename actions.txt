@@ -15,3 +15,11 @@ c014 Getting into a car
 c015 Walking up the stairs
 c016 Carrying a chair
 c017 Searching and taking valuables
+c018 Backing up a car
+c019 Getting out of a car
+c020 Breaking open a door
+c021 Moving through a hallway
+c022 Breaking open a door with an object
+c023 Opening a vehicle trunk
+c024 Loading an object on a vehicle
+c025 Driving away
