@@ -23,3 +23,8 @@ V022,"Two men enter a room, search through drawers and cabinets, and appear to b
 V023,"A person approaches a house, steals a parcel from the doorstep, gets into his car, and drives away.",c028 1.07 4.58;c036 4.75 27.80;c025 27.99 33.99,35
 V024,"A person approaches a house, steals a parcel from the doorstep and walks away.",c028 1.57 13.47;c036 14.30 28.94,40
 V025,"A woman approaches a house, steals a parcel from the doorstep and walks away.",c036 0.16 16.83,29
+V026,"A person approaches a house, steals a parcel from the doorstep, gets into his car, and drives away.",c036 1.75 5.16;c025 5.54 14.94,16
+V027,"A person approaches a house, steals a parcel from the doorstep, loads it onto a truck, and drives away.",c028 0.00 4.91;c036 8.82 15.91;c024 16.05 22.49,22.49
+V028,"A person approaches a house, steals a parcel from the doorstep, gets into his car, and drives away.",c036 0.14 6.60;c014 8.10 9.86,10
+V029,"A person approaches a bicycle, steals it, loads it onto a trolley, and walks away.",c038 11.41 18.54,58
+V030,"A woman walks past a house, notices a package on the doorstep, turns around, takes the package, and walks away.",c028 21.24 28.43;c036 29.47 45.91,47

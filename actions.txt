@@ -35,3 +35,4 @@ c034 Fleeing from a house
 c035 Delivering a parcel
 c036 Stealing a parcel
 c037 Putting down a parcel
+c038 Stealing a bicycle
