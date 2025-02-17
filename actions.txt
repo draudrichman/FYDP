@@ -40,3 +40,5 @@ c039 Stealing a package
 c040 Riding a bicycle
 c041 Stealing a motorcycle
 c042 Carrying a safe
+c043 Breaking into a house
+c044 Fleeing the scene

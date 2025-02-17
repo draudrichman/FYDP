@@ -17,6 +17,7 @@ V015,"A man enters the house through the front door and proceeds to search aroun
 V016,"A delivery man arrives, places a parcel at the door, marks it as delivered, and then picks it up and leaves with it.",c035 0.27 8.08;c036 8.22 18.18,18.18
 V017,"A man approaches the house, steals a parcel from the porch, and begins to leave. As he is leaving, the homeowner confronts him with a gun. The thief then returns the parcel and leaves the premises.",c028 4.57 19.74;c036 19.93 26.38;c004 26.55 47.99;c037 38.33 42.33,48
 V018,"A woman approaches a house, takes parcels from the doorstep, and places them into her car.",c024 17.27 20.88;c036 0.00 14.94;c036 25.82 29.38,29.38
+V019,"A person walks up to the front porch and attempts to steal a package. As he picks it up, the package suddenly explodes, causing him to fall to the ground. Dazed, he quickly gets up and attempts to flee the scene.",c001 0.00 1.93;c028 1.93 3.71;c036 4.22 9.46;c044 14.68 15.68,15.68
 V020,"A man approaches a house, waits briefly, steals a parcel from the doorstep, gets into his car, and drives away.",c028 0.00 12.71;c036 12.88 22.57;c014 22.69 26.32;c025 26.44 32.00,32.00
 V021,"A car backs into a driveway, and masked men step out. They break open the door and get inside, moving through the hallway and different rooms.",c018 0.00 3.69;c019 3.77 13.43;c020 25.44 34.44;c021 34.77 49.33,49.33
 V022,"Two men enter a room, search through drawers and cabinets, and appear to be looking for valuables.",c001 0.00 1.69;c017 1.99 61.17,62
@@ -46,3 +47,5 @@ V045,"A person walks up to a house, steals a parcel from the doorstep, and walks
 V046,"A person walks up to a house, steals a parcel from the doorstep, gets into his car, and drives away.",c036 0.00 5.80;c025 17.68 18.68,18.68
 V047,"A group of men break open a rolling shutter gate. Once inside, they quickly maneuver the motorcycles out.",c020 0.00 65.00;c041 74.27 125.27,125.27
 V048,"A group of men break several doors of a house. After a while, they find a large safe, lift it, and carry it out.",c020 48.30 67.85;c020 4.54 12.72;c042 94.46 112.27,112.27
+V049,"A group of men break into a home, searching for valuables, and taking whatever they find",c043 0.85 9.08;c017 12.97 125.97,125.97
+V050,"A couple of men break open a door, with one of them holding a gun. They remain behind the door for a while, seemingly waiting for something, before fleeing the scene.",c020 1.88 3.67;c004 3.92 12.52;c017 8.11 20.11,20.11
